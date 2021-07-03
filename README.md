@@ -1,4 +1,4 @@
-# profile_banner
+# Discord profile banner
  
 ## Usage :
 
