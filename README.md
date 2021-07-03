@@ -1,5 +1,7 @@
 # Discord profile banner
  
+<img src="http://g.recordit.co/8fNF2il6Sy.gif">
+
 ## Usage :
 
 1. `git clone https://github.com/AbdullahSH2004/profile_banner.git`
