@@ -16,4 +16,4 @@
 
 # want a support?
 
-[discord.gg/codes](https://discord.gg/codes)
+[discord.gg/codes](https://discord.gg/code-s)
