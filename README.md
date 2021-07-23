@@ -10,7 +10,7 @@
 
 3. `npm i`
 
-4. [get your bot token](https://discord.com/developers/applications) and get your acc token from the discord website & replace `TOKENS` in [config.js](https://github.com/AbdullahSH2004/profile_banner/config.js) with it
+4. [get your bot token](https://discord.com/developers/applications) and get your acc token from the discord website & replace `TOKENS` in [config.js](https://github.com/AbdullahSH2004/profile_banner/blob/main/config.js) with it
 
 5. `node index.js`
 
